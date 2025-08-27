@@ -1,4 +1,4 @@
-![cv](![resume](https://github.com/user-attachments/assets/32a9f65f-25a5-481d-8a09-d6c1298c00f8))
+![cv](https://github.com/user-attachments/assets/32a9f65f-25a5-481d-8a09-d6c1298c00f8)
 
 # Minimalist CV [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FBartoszJarocki%2Fcv)
 
