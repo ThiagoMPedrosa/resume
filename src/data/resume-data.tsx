@@ -22,7 +22,7 @@ export const RESUME_DATA = {
       systems. Experienced in technical architecture design and remote deployments.
     </>
   ),
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/56482267?v=4",
   personalWebsiteUrl: "https://notabug.dev",
   contact: {
     email: "thiago.mp13@hotmail.com",
@@ -43,7 +43,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Faculdades Integradas Campos Salles",
-      degree: "Bachelor's Degree in Information Systems",
+      degree: "Bachelors Degree in Information Systems",
       start: "2016",
       end: "2019",
     },
@@ -59,11 +59,11 @@ export const RESUME_DATA = {
       end: null,
       description: (
         <>
-          Responsible for implementing, maintaining, and enhancing Thales' 
+          Responsible for implementing, maintaining, and enhancing Thales
           personalization systems across the Americas region.
           <ul className="list-inside list-disc">
             <li>
-              Serve as subject matter expert in the development and deployment of Thales’ 
+              Serve as subject matter expert in the development and deployment of Thales
               internal solutions, utilizing Java, Python, C#, and Velocity.
             </li>
             <li>
@@ -89,11 +89,11 @@ export const RESUME_DATA = {
       end: "2025",
       description: (
         <>
-          Responsible for implementing, maintaining, and enhancing Thales' 
+          Responsible for implementing, maintaining, and enhancing Thales 
           personalization systems across the Americas region.
           <ul className="list-inside list-disc">
             <li>
-              Develop and deploy Thales' internal systems, focused on Java, Python, C#, and Velocity
+              Develop and deploy Thales internal systems, focused on Java, Python, C#, and Velocity
             </li>
             <li>
               Direct interface for local teams across the USA and Canada, ensuring
@@ -122,7 +122,7 @@ export const RESUME_DATA = {
       end: "2022",
       description: (
         <>
-          Responsible for implementing, maintaining, and enhancing Thales' 
+          Responsible for implementing, maintaining, and enhancing Thales 
           personalization systems across the Americas region.
           <ul className="list-inside list-disc">
             <li>
@@ -147,7 +147,7 @@ export const RESUME_DATA = {
       end: "2019",
       description: (
         <>
-          Responsible for implementing, maintaining, and enhancing Thales' 
+          Responsible for implementing, maintaining, and enhancing Thales 
           personalization systems across the Americas region.
           <ul className="list-inside list-disc">
             <li>
@@ -191,8 +191,8 @@ export const RESUME_DATA = {
         "Django Web Server application that manages Inventory stock and KPIs across multiple sites worldwide.",
       //logo: MonitoLogo,
       link: {
-        label: "IMS",
-        //href: "https://monito.dev/",
+        href: "",
+        label: ""
       },
     },
     {
@@ -206,8 +206,8 @@ export const RESUME_DATA = {
         "Improve the information access about voluntary positions, bringing position posts and their availability according to the filters.",
       //logo: ConsultlyLogo,
       link: {
-        label: "voluntariando",
-        //href: "https://consultly.com/",
+        href: "",
+        label: ""
       },
     },
   ],
