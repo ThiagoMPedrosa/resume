@@ -23,7 +23,7 @@ export const RESUME_DATA = {
     </>
   ),
   avatarUrl: "https://avatars.githubusercontent.com/u/56482267?v=4",
-  personalWebsiteUrl: "https://notabug.dev",
+  personalWebsiteUrl: "https://resume-thiagopedrosa.vercel.app",
   contact: {
     email: "thiago.mp13@hotmail.com",
     tel: "+3657790082",
