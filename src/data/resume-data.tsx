@@ -1,10 +1,5 @@
 import {
-  ClevertechLogo,
-  ConsultlyLogo,
-  JojoMobileLogo,
-  MonitoLogo,
-  NSNLogo,
-  ParabolLogo,
+  ThalesLogo,
 } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
@@ -54,7 +49,7 @@ export const RESUME_DATA = {
       link: "https://www.thalesgroup.com",
       badges: ["Hybrid", "Project Management", "Python", "Django", "Java", "C#"],
       title: "Industrial Personalization Solutions Field Support Senior",
-      //logo: ConsultlyLogo,
+      logo: ThalesLogo,
       start: "2025",
       end: null,
       description: (
@@ -84,7 +79,7 @@ export const RESUME_DATA = {
       link: "https://www.thalesgroup.com",
       badges: ["Hybrid", "Python", "Django", "Java", "C#", "Oracle"],
       title: "Perso System Support Engineer Specialist",
-      //logo: ConsultlyLogo,
+      logo: ThalesLogo,
       start: "2022",
       end: "2025",
       description: (
@@ -117,7 +112,7 @@ export const RESUME_DATA = {
       link: "https://www.thalesgroup.com",
       badges: ["On Site", "JavaScript", "PHP", "EMV", "PLSQL", "Oracle", "SPI"],
       title: "Order Engineering - Software Developer",
-      //logo: ConsultlyLogo,
+      logo: ThalesLogo,
       start: "2019",
       end: "2022",
       description: (
@@ -142,7 +137,7 @@ export const RESUME_DATA = {
       link: "https://www.thalesgroup.com",
       badges: ["On Site", "DoS", "EMV", "PLSQL", "Oracle"],
       title: "New Product Integration Technician",
-      //logo: ConsultlyLogo,
+      logo: ThalesLogo,
       start: "2016",
       end: "2019",
       description: (
@@ -189,7 +184,7 @@ export const RESUME_DATA = {
       techStack: ["Django", "Python", "MariaDB", "IIS, Nginx", "LDAP"],
       description:
         "Django Web Server application that manages Inventory stock and KPIs across multiple sites worldwide.",
-      //logo: MonitoLogo,
+      logo: ThalesLogo,
       link: {
         href: "",
         label: ""
@@ -204,7 +199,7 @@ export const RESUME_DATA = {
       ],
       description:
         "Improve the information access about voluntary positions, bringing position posts and their availability according to the filters.",
-      //logo: ConsultlyLogo,
+      logo: ThalesLogo,
       link: {
         href: "",
         label: ""
