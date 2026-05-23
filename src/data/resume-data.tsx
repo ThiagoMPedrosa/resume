@@ -9,12 +9,12 @@ export const RESUME_DATA = {
   location: "Ontario, Canada, EST",
   locationLink: "https://www.google.com/maps/place/Ontario",
   about:
-    "An accomplished software engineer with 8 years of growth and innovation, currently specializing in driving projects to success.",
+    "An accomplished Tech-Leader with over 9 years of growth and innovation, currently specializing in driving projects to success.",
   summary: (
     <>
-      Backend-focused Full Stack Engineer specializing in Banking and Payment
-      applications, scalable Django services, and real-time collaboration
-      systems. Experienced in technical architecture design and remote deployments.
+      Technical Lead with 9+ years of experience in EMV payment systems, smartcard personalization, credential issuance, secure data processing, and
+      production system support. Strong background in integration, validation, troubleshooting, scripting, and customer-facing technical delivery across
+      secure payment environments, with exposure to cryptography, key management, PCI-CP, ISO standards, and Windows/Linux-based infrastructure.
     </>
   ),
   avatarUrl: "https://avatars.githubusercontent.com/u/56482267?v=4",
@@ -45,13 +45,50 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Giesecke+Devrient",
+      link: "https://www.gi-de.com/en/",
+      badges: ["Hybrid", "Business Solutions", "Tech-Lead", "Client-Facing"],
+      title: "Business Solution Tech Lead",
+      logo: ThalesLogo,
+      start: "2025",
+      end: null,
+      description: (
+        <>
+          Act as a technical advisor for clients and internal stakeholders on payment technologies,
+          EMV processing, and cross-border system integrations
+          <ul className="list-inside list-disc">
+            <li>
+              Analyze and gather business and system requirements from stakeholders, 
+              translating them into functional and technical specifications.
+            </li>
+            <li>
+              Design and recommend integrated IT solutions, including legacy and 
+              API-based systems, ensuring scalability, interoperability, and security
+            </li>
+            <li>
+              Develop system architecture, data flows, interface designs, and
+              technical documentation to support implementation and integration
+            </li>
+            <li>
+              Evaluate existing systems and processes to identify gaps and risks,
+              and propose optimized technical solutions
+            </li>
+            <li>
+              Collaborate with clients, development, and QA teams to deliver 
+              scalable payment solutions aligned with business objectives.
+            </li>
+          </ul>
+        </>
+      ),
+    },
+    {
       company: "Thales Cyber & Digital Canada",
       link: "https://www.thalesgroup.com",
       badges: ["Hybrid", "Project Management", "Python", "Django", "Java", "C#"],
       title: "Industrial Personalization Solutions Field Support Senior",
       logo: ThalesLogo,
       start: "2025",
-      end: null,
+      end: "2025",
       description: (
         <>
           Responsible for implementing, maintaining, and enhancing Thales
