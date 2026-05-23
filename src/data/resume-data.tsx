@@ -9,7 +9,7 @@ export const RESUME_DATA = {
   location: "Ontario, Canada, EST",
   locationLink: "https://www.google.com/maps/place/Ontario",
   about:
-    "An accomplished Tech-Leader with over 9 years of growth and innovation, currently specializing in driving projects to success.",
+    "An accomplished Tech-Lead with over 9 years of growth and innovation, currently specializing in driving projects to success.",
   summary: (
     <>
       Technical Lead with 9+ years of experience in EMV payment systems, smartcard personalization, credential issuance, secure data processing, and
@@ -47,7 +47,7 @@ export const RESUME_DATA = {
     {
       company: "Giesecke+Devrient",
       link: "https://www.gi-de.com/en/",
-      badges: ["Hybrid", "Business Solutions", "Tech-Lead", "Client-Facing"],
+      badges: ["Hybrid", "Business Solutions", "Tech-Lead", "Client-Facing", "Banking & Payment"],
       title: "Business Solution Tech Lead",
       logo: ThalesLogo,
       start: "2025",
