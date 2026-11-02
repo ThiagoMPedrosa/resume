@@ -4,6 +4,7 @@ import { RESUME_DATA } from "@/data/resume-data";
 import { WorkExperience } from "./components/WorkExperience";
 import { Projects } from "./components/Projects";
 import { Education } from "./components/Education";
+import { Awards } from "./components/Awards";
 import { Summary } from "./components/Summary";
 import { Skills } from "./components/Skills";
 import { Header } from "./components/Header";
@@ -77,6 +78,8 @@ export default function ResumePage() {
           <WorkExperience work={RESUME_DATA.work} />
 
           <Education education={RESUME_DATA.education} />
+
+          <Awards awards={RESUME_DATA.awards} />
 
           <Skills skills={RESUME_DATA.skills} />
 
